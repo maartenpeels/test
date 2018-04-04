@@ -14,7 +14,7 @@ public class SomeBeanWithData implements Serializable {
     @PostConstruct
     public void doSomething()
     {
-        this.data = "Hey";
+        this.data = "Deployen werkt!!!!";
     }
 
     public String getData() {
